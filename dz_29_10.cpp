@@ -13,7 +13,7 @@ static int proiz(int x, int y) {
         neg = true;
     }
     else if (x < 0 && y < 0) {
-        x = -x;
+        x = -x;//
         y = -y;
     }
 
